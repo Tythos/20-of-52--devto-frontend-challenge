@@ -280,6 +280,11 @@ rollup@^4.20.0:
     "@rollup/rollup-win32-x64-msvc" "4.21.2"
     fsevents "~2.3.2"
 
+solarplanets@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/solarplanets/-/solarplanets-0.1.2.tgz#ccb562479129f5bd366f58ab7bf716c226dea527"
+  integrity sha512-iUrRaiQqn86OzVGWaTgtJy9KlROtCxlwr8s4c0hhqp/ur+8u9lIudV4Mn/T2S2nGQm0spa5yj4iLm1W/KWZqbA==
+
 source-map-js@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"

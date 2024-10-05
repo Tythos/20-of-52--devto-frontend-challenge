@@ -12,6 +12,7 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
+    "solarplanets": "^0.1.2",
     "three": "^0.168.0"
   }
 }
